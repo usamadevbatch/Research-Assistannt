@@ -1,0 +1,14 @@
+[browser]
+gatherUsageStats = false
+
+[server]
+maxUploadSize = 500
+
+[client]
+toolbarMode = "minimal"
+
+[theme]
+primaryColor = "#6366F1"
+baseRadius = "medium"
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+showSidebarBorder = true
